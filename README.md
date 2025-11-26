@@ -2,7 +2,7 @@
     COMENTARIOS EN CÓDIGO: Declaración inicial del modelo de caja.
     Asegura que padding y border se incluyan *dentro* del ancho/alto
     de un elemento, simplificando el diseño.
-*/
+*/ 
 * {
     box-sizing: border-box; /* Modelo de Caja: Uso de box-sizing */
     margin: 0;
